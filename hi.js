@@ -7,7 +7,7 @@ else {
     alert(`в цельсиях это ${Math.round(tc)} но книгу ты не читал`)
 }
 
-
+'ficha sozdaetsa'
 
 
 
