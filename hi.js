@@ -1,10 +1,3 @@
-// setTimeout(reminder, 5000);
-// function reminder() {
-//     alert( 'Hi There' );
-// } 
-// infinity 
-// 1 / 0
-// console.log();
 let tf = prompt('при какой температуре по фаренгейту горит книга Бредбери?')
 let tc = (tf - 32) * 5/9
 if (tf == 456) {
